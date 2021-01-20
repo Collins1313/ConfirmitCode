@@ -1,1 +1,3 @@
-<h1>Test Title</h1>
+<script>
+  console.log('Test Page');
+</script>
